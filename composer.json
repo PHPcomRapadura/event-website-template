@@ -1,0 +1,22 @@
+{
+    "name": "alissonsilvas/event-site",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files":[
+            "app/helpers/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "@alissonsilvas",
+            "email": "contato@phpcomrapadura.org"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.6",
+        "league/plates": "^3.5"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "data":{
+       "name":"MeetuPHP com Rapadura",
+       "date":"04 de Fevereiro de 2023",
+       "local":"Digital College - Sede Aldeota",
+       "about":"É um evento que proporciona a reunião de vários desenvolvedores entusiastas, amantes e estudantes do PHP que gostam de interagir com outros desenvolvedores a fim de compartilhar conhecimento, e assim criar um ciclo colaborativo de ensino e aprendizado. A principal finalidade do evento é a interação, networking e colaboração, que contribuem de forma eficiente na formação de melhores pessoas e profissionais. Terá Rapadura? Claro que sim jovem, pois não seria PHP com Rapadura se não tivesse rapadura hehehe.",
+       "url_register": "https://www.sympla.com.br/evento/meetuphp-com-rapadura-0223/1844762"
+    },
+    "pictures":{
+       "favicon":"assets/img/favicon.png",
+       "background_home":"/img/banner.png",
+       "logo":"assets/img/logo.png"
+    },
+    "speakers":[
+       {
+          "name":"Alisson Silva",
+          "about":"Desenvolvedor de bugs",
+          "sm_github":"https://github.com/AlissonSilvaCe",
+          "sm_twitter":"https://twitter.com/AlissonSilvaCe",
+          "sm_instagram":"",
+          "image": "https://avatars.githubusercontent.com/u/5832077?v=4"
+       },
+       {
+          "name":"Alisson Silva",
+          "about":"Desenvolvedor de bugs",
+          "sm_github":"https://github.com/AlissonSilvaCe",
+          "sm_twitter":"https://twitter.com/AlissonSilvaCe",
+          "sm_instagram":"",
+          "image": "https://avatars.githubusercontent.com/u/5832077?v=4"
+       }
+    ],
+    "sponsors":[
+       {
+          "name":"Digital College",
+          "about":"Escola de habilidades digitais",
+          "website":"https://digitalcollege.com.br",
+          "logo":"assets/img/logo-digital.png.webp",
+          "type": "Apoio Institucional"
+       }
+    ],
+    "schedules":[
+        {
+            "time":"",
+            "activity":"",
+            "facilitator":""
+        }
+    ],
+    "code_conduct":{
+       "text":""
+    },
+    "local": {
+        "full_address": "Av. Santos Dumont, 1510 - 1 andar - Aldeota, Fortaleza - CE.",
+        "code_maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15925.41808631913!2d-38.5104072!3d-3.7326781!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x38e3b25bd5d38768!2sDigital%20College%20Fortaleza!5e0!3m2!1spt-BR!2sbr!4v1674591009843!5m2!1spt-BR!2sbr"
+    },
+    "midia_kit": ""
+ }
