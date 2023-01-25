@@ -1,6 +1,6 @@
 <?php $this->layout('template', ['title' => $data->name, 'favicon'=> $pictures->favicon]) ?>
 
-<?=$this->insert('sections/header', ['url_logo'=> $pictures->logo, 'date'=> $data->date, 'local'=> $data->local])?>
+<?=$this->insert('sections/header', ['url_logo'=> $pictures->logo, 'date'=> $data->date, 'local'=> $data->local, 'title' => $data->name])?>
 
 <?=$this->insert('sections/nav')?>
 
